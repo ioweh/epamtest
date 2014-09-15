@@ -151,7 +151,7 @@ namespace Notebook {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Poster before.
+        ///   Looks up a localized string similar to Posted before.
         /// </summary>
         public static string lblMaxDate {
             get {

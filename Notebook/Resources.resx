@@ -148,7 +148,7 @@
     <value>Liked by</value>
   </data>
   <data name="lblMaxDate" xml:space="preserve">
-    <value>Poster before</value>
+    <value>Posted before</value>
   </data>
   <data name="lblMinDate" xml:space="preserve">
     <value>Posted after</value>
