@@ -1,0 +1,102 @@
+﻿@model SearchNoteVM
+
+@{
+    ViewBag.Title = Resources.titleSearch;
+    if (Model.Authors == null)
+    {
+        Model.Authors = "";
+    }
+    if (Model.LikedBy == null)
+    {
+        Model.LikedBy = "";
+    }
+}
+
+@using (Html.BeginForm("Search", "Note", FormMethod.Post, new { @class = "form-horizontal search-form", role = "form" }))
+{
+    @Html.AntiForgeryToken()
+    <h4>@Resources.promptSearch</h4>
+    <hr />
+
+    @Html.ValidationSummary()
+
+    <input type="hidden" name="Authors" class="authors-input"/>
+    <input type="hidden" name="LikedBy" class="likers-input" />
+    
+    <div class="form-group">
+        @Html.LabelFor(_ => Model.MinDate, new { @class = "col-md-2 control-label" })
+        <div class="col-md-10">
+            @Html.TextBoxFor(_ => Model.MinDate, new { @class = "form-control", id = "mindate", data_provide = "datepicker" })
+        </div>
+    </div>
+
+    <div class="form-group">
+        @Html.LabelFor(_ => Model.MaxDate, new { @class = "col-md-2 control-label" })
+        <div class="col-md-10">
+            @Html.TextBoxFor(_ => Model.MaxDate, new { @class = "form-control", id = "maxdate", data_provide = "datepicker" })
+        </div>
+    </div>
+
+    <div class="form-group form-authors">
+        @Html.LabelFor(_ => Model.Authors, new { @class = "col-md-2 control-label" })
+        <div class="col-md-10">
+            <select class="select-users" style="width: 80%" multiple="multiple">
+                @{
+                    string[] selectedUsers = Model.Authors.Split(';');
+                    foreach (var user in AccountDM.GetAll())
+                    {
+                        if (selectedUsers.Contains(user.Name))
+                        {
+                            <option value="@user.Name" selected>@user.Name</option>
+                        }
+                        else
+                        {
+                             <option value="@user.Name">@user.Name</option>
+                        }
+                    }
+                 }
+            </select>
+
+        </div>
+    </div>
+
+    <div class="form-group form-likers">
+        @Html.LabelFor(_ => Model.LikedBy, new { @class = "col-md-2 control-label" })
+        <div class="col-md-10">
+            <select class="select-users" style="width: 80%" multiple="multiple">
+                @{
+                    selectedUsers = Model.LikedBy.Split(';');
+                    foreach (var user in AccountDM.GetAll())
+                    {
+                        if (selectedUsers.Contains(user.Name))
+                        {
+                            <option value="@user.Name" selected>@user.Name</option>
+                        }
+                        else
+                        {
+                            <option value="@user.Name">@user.Name</option>
+                        }
+                    }
+                }
+            </select>
+
+        </div>
+    </div>
+
+    <div class="form-group">
+        <div class="col-md-offset-2 col-md-10">
+            <a class="btn btn-default button-submit">@Resources.btnSearch</a>
+        </div>
+    </div>
+
+}
+
+@section scripts
+{
+    <script>
+        var minDateIsNull = '@(Model.MinDate == default(DateTime))' == 'True',
+            maxDateIsNull = '@(Model.MaxDate == default(DateTime))' == 'True';
+    </script>
+    <script src="~/Scripts/Note/Search.js"></script>
+}
+

@@ -1,0 +1,157 @@
+C:\Users\Maxim_Koval\Documents\Visual Studio 2013\ASP.NET MVC5 with Bootstrap 3.1.1 LESS1\ASP.NET MVC5 with Bootstrap 3.1.1 LESS1\bin\Antlr3.Runtime.dll
+C:\Users\Maxim_Koval\Documents\Visual Studio 2013\ASP.NET MVC5 with Bootstrap 3.1.1 LESS1\ASP.NET MVC5 with Bootstrap 3.1.1 LESS1\bin\BundleTransformer.Core.dll
+C:\Users\Maxim_Koval\Documents\Visual Studio 2013\ASP.NET MVC5 with Bootstrap 3.1.1 LESS1\ASP.NET MVC5 with Bootstrap 3.1.1 LESS1\bin\BundleTransformer.Less.dll
+C:\Users\Maxim_Koval\Documents\Visual Studio 2013\ASP.NET MVC5 with Bootstrap 3.1.1 LESS1\ASP.NET MVC5 with Bootstrap 3.1.1 LESS1\bin\EntityFramework.dll
+C:\Users\Maxim_Koval\Documents\Visual Studio 2013\ASP.NET MVC5 with Bootstrap 3.1.1 LESS1\ASP.NET MVC5 with Bootstrap 3.1.1 LESS1\bin\EntityFramework.SqlServer.dll
+C:\Users\Maxim_Koval\Documents\Visual Studio 2013\ASP.NET MVC5 with Bootstrap 3.1.1 LESS1\ASP.NET MVC5 with Bootstrap 3.1.1 LESS1\bin\JavaScriptEngineSwitcher.Core.dll
+C:\Users\Maxim_Koval\Documents\Visual Studio 2013\ASP.NET MVC5 with Bootstrap 3.1.1 LESS1\ASP.NET MVC5 with Bootstrap 3.1.1 LESS1\bin\JavaScriptEngineSwitcher.Msie.dll
+C:\Users\Maxim_Koval\Documents\Visual Studio 2013\ASP.NET MVC5 with Bootstrap 3.1.1 LESS1\ASP.NET MVC5 with Bootstrap 3.1.1 LESS1\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Maxim_Koval\Documents\Visual Studio 2013\ASP.NET MVC5 with Bootstrap 3.1.1 LESS1\ASP.NET MVC5 with Bootstrap 3.1.1 LESS1\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Maxim_Koval\Documents\Visual Studio 2013\ASP.NET MVC5 with Bootstrap 3.1.1 LESS1\ASP.NET MVC5 with Bootstrap 3.1.1 LESS1\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Maxim_Koval\Documents\Visual Studio 2013\ASP.NET MVC5 with Bootstrap 3.1.1 LESS1\ASP.NET MVC5 with Bootstrap 3.1.1 LESS1\bin\Microsoft.Owin.dll
+C:\Users\Maxim_Koval\Documents\Visual Studio 2013\ASP.NET MVC5 with Bootstrap 3.1.1 LESS1\ASP.NET MVC5 with Bootstrap 3.1.1 LESS1\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Maxim_Koval\Documents\Visual Studio 2013\ASP.NET MVC5 with Bootstrap 3.1.1 LESS1\ASP.NET MVC5 with Bootstrap 3.1.1 LESS1\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Maxim_Koval\Documents\Visual Studio 2013\ASP.NET MVC5 with Bootstrap 3.1.1 LESS1\ASP.NET MVC5 with Bootstrap 3.1.1 LESS1\bin\Microsoft.Owin.Security.dll
+C:\Users\Maxim_Koval\Documents\Visual Studio 2013\ASP.NET MVC5 with Bootstrap 3.1.1 LESS1\ASP.NET MVC5 with Bootstrap 3.1.1 LESS1\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Maxim_Koval\Documents\Visual Studio 2013\ASP.NET MVC5 with Bootstrap 3.1.1 LESS1\ASP.NET MVC5 with Bootstrap 3.1.1 LESS1\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Maxim_Koval\Documents\Visual Studio 2013\ASP.NET MVC5 with Bootstrap 3.1.1 LESS1\ASP.NET MVC5 with Bootstrap 3.1.1 LESS1\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Maxim_Koval\Documents\Visual Studio 2013\ASP.NET MVC5 with Bootstrap 3.1.1 LESS1\ASP.NET MVC5 with Bootstrap 3.1.1 LESS1\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Maxim_Koval\Documents\Visual Studio 2013\ASP.NET MVC5 with Bootstrap 3.1.1 LESS1\ASP.NET MVC5 with Bootstrap 3.1.1 LESS1\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Maxim_Koval\Documents\Visual Studio 2013\ASP.NET MVC5 with Bootstrap 3.1.1 LESS1\ASP.NET MVC5 with Bootstrap 3.1.1 LESS1\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Maxim_Koval\Documents\Visual Studio 2013\ASP.NET MVC5 with Bootstrap 3.1.1 LESS1\ASP.NET MVC5 with Bootstrap 3.1.1 LESS1\bin\MsieJavaScriptEngine.dll
+C:\Users\Maxim_Koval\Documents\Visual Studio 2013\ASP.NET MVC5 with Bootstrap 3.1.1 LESS1\ASP.NET MVC5 with Bootstrap 3.1.1 LESS1\bin\Owin.dll
+C:\Users\Maxim_Koval\Documents\Visual Studio 2013\ASP.NET MVC5 with Bootstrap 3.1.1 LESS1\ASP.NET MVC5 with Bootstrap 3.1.1 LESS1\bin\System.Net.Http.Formatting.dll
+C:\Users\Maxim_Koval\Documents\Visual Studio 2013\ASP.NET MVC5 with Bootstrap 3.1.1 LESS1\ASP.NET MVC5 with Bootstrap 3.1.1 LESS1\bin\System.Web.Helpers.dll
+C:\Users\Maxim_Koval\Documents\Visual Studio 2013\ASP.NET MVC5 with Bootstrap 3.1.1 LESS1\ASP.NET MVC5 with Bootstrap 3.1.1 LESS1\bin\System.Web.Http.dll
+C:\Users\Maxim_Koval\Documents\Visual Studio 2013\ASP.NET MVC5 with Bootstrap 3.1.1 LESS1\ASP.NET MVC5 with Bootstrap 3.1.1 LESS1\bin\System.Web.Http.WebHost.dll
+C:\Users\Maxim_Koval\Documents\Visual Studio 2013\ASP.NET MVC5 with Bootstrap 3.1.1 LESS1\ASP.NET MVC5 with Bootstrap 3.1.1 LESS1\bin\System.Web.Mvc.dll
+C:\Users\Maxim_Koval\Documents\Visual Studio 2013\ASP.NET MVC5 with Bootstrap 3.1.1 LESS1\ASP.NET MVC5 with Bootstrap 3.1.1 LESS1\bin\System.Web.Optimization.dll
+C:\Users\Maxim_Koval\Documents\Visual Studio 2013\ASP.NET MVC5 with Bootstrap 3.1.1 LESS1\ASP.NET MVC5 with Bootstrap 3.1.1 LESS1\bin\System.Web.Razor.dll
+C:\Users\Maxim_Koval\Documents\Visual Studio 2013\ASP.NET MVC5 with Bootstrap 3.1.1 LESS1\ASP.NET MVC5 with Bootstrap 3.1.1 LESS1\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Maxim_Koval\Documents\Visual Studio 2013\ASP.NET MVC5 with Bootstrap 3.1.1 LESS1\ASP.NET MVC5 with Bootstrap 3.1.1 LESS1\bin\System.Web.WebPages.dll
+C:\Users\Maxim_Koval\Documents\Visual Studio 2013\ASP.NET MVC5 with Bootstrap 3.1.1 LESS1\ASP.NET MVC5 with Bootstrap 3.1.1 LESS1\bin\System.Web.WebPages.Razor.dll
+C:\Users\Maxim_Koval\Documents\Visual Studio 2013\ASP.NET MVC5 with Bootstrap 3.1.1 LESS1\ASP.NET MVC5 with Bootstrap 3.1.1 LESS1\bin\WebGrease.dll
+C:\Users\Maxim_Koval\Documents\Visual Studio 2013\ASP.NET MVC5 with Bootstrap 3.1.1 LESS1\ASP.NET MVC5 with Bootstrap 3.1.1 LESS1\bin\Antlr3.Runtime.pdb
+C:\Users\Maxim_Koval\Documents\Visual Studio 2013\ASP.NET MVC5 with Bootstrap 3.1.1 LESS1\ASP.NET MVC5 with Bootstrap 3.1.1 LESS1\bin\EntityFramework.xml
+C:\Users\Maxim_Koval\Documents\Visual Studio 2013\ASP.NET MVC5 with Bootstrap 3.1.1 LESS1\ASP.NET MVC5 with Bootstrap 3.1.1 LESS1\bin\EntityFramework.SqlServer.xml
+C:\Users\Maxim_Koval\Documents\Visual Studio 2013\ASP.NET MVC5 with Bootstrap 3.1.1 LESS1\ASP.NET MVC5 with Bootstrap 3.1.1 LESS1\bin\Microsoft.Owin.xml
+C:\Users\Maxim_Koval\Documents\Visual Studio 2013\ASP.NET MVC5 with Bootstrap 3.1.1 LESS1\ASP.NET MVC5 with Bootstrap 3.1.1 LESS1\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Maxim_Koval\Documents\Visual Studio 2013\ASP.NET MVC5 with Bootstrap 3.1.1 LESS1\ASP.NET MVC5 with Bootstrap 3.1.1 LESS1\bin\Microsoft.Owin.Security.xml
+C:\Users\Maxim_Koval\Documents\Visual Studio 2013\ASP.NET MVC5 with Bootstrap 3.1.1 LESS1\ASP.NET MVC5 with Bootstrap 3.1.1 LESS1\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Maxim_Koval\Documents\Visual Studio 2013\ASP.NET MVC5 with Bootstrap 3.1.1 LESS1\ASP.NET MVC5 with Bootstrap 3.1.1 LESS1\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Maxim_Koval\Documents\Visual Studio 2013\ASP.NET MVC5 with Bootstrap 3.1.1 LESS1\ASP.NET MVC5 with Bootstrap 3.1.1 LESS1\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Maxim_Koval\Documents\Visual Studio 2013\ASP.NET MVC5 with Bootstrap 3.1.1 LESS1\ASP.NET MVC5 with Bootstrap 3.1.1 LESS1\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Maxim_Koval\Documents\Visual Studio 2013\ASP.NET MVC5 with Bootstrap 3.1.1 LESS1\ASP.NET MVC5 with Bootstrap 3.1.1 LESS1\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Maxim_Koval\Documents\Visual Studio 2013\ASP.NET MVC5 with Bootstrap 3.1.1 LESS1\ASP.NET MVC5 with Bootstrap 3.1.1 LESS1\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Maxim_Koval\Documents\Visual Studio 2013\ASP.NET MVC5 with Bootstrap 3.1.1 LESS1\ASP.NET MVC5 with Bootstrap 3.1.1 LESS1\bin\System.Net.Http.Formatting.xml
+C:\Users\Maxim_Koval\Documents\Visual Studio 2013\ASP.NET MVC5 with Bootstrap 3.1.1 LESS1\ASP.NET MVC5 with Bootstrap 3.1.1 LESS1\bin\System.Web.Helpers.xml
+C:\Users\Maxim_Koval\Documents\Visual Studio 2013\ASP.NET MVC5 with Bootstrap 3.1.1 LESS1\ASP.NET MVC5 with Bootstrap 3.1.1 LESS1\bin\System.Web.Http.xml
+C:\Users\Maxim_Koval\Documents\Visual Studio 2013\ASP.NET MVC5 with Bootstrap 3.1.1 LESS1\ASP.NET MVC5 with Bootstrap 3.1.1 LESS1\bin\System.Web.Http.WebHost.xml
+C:\Users\Maxim_Koval\Documents\Visual Studio 2013\ASP.NET MVC5 with Bootstrap 3.1.1 LESS1\ASP.NET MVC5 with Bootstrap 3.1.1 LESS1\bin\System.Web.Mvc.xml
+C:\Users\Maxim_Koval\Documents\Visual Studio 2013\ASP.NET MVC5 with Bootstrap 3.1.1 LESS1\ASP.NET MVC5 with Bootstrap 3.1.1 LESS1\bin\System.Web.Optimization.xml
+C:\Users\Maxim_Koval\Documents\Visual Studio 2013\ASP.NET MVC5 with Bootstrap 3.1.1 LESS1\ASP.NET MVC5 with Bootstrap 3.1.1 LESS1\bin\System.Web.Razor.xml
+C:\Users\Maxim_Koval\Documents\Visual Studio 2013\ASP.NET MVC5 with Bootstrap 3.1.1 LESS1\ASP.NET MVC5 with Bootstrap 3.1.1 LESS1\bin\System.Web.WebPages.xml
+C:\Users\Maxim_Koval\Documents\Visual Studio 2013\ASP.NET MVC5 with Bootstrap 3.1.1 LESS1\ASP.NET MVC5 with Bootstrap 3.1.1 LESS1\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Maxim_Koval\Documents\Visual Studio 2013\ASP.NET MVC5 with Bootstrap 3.1.1 LESS1\ASP.NET MVC5 with Bootstrap 3.1.1 LESS1\bin\System.Web.WebPages.Razor.xml
+C:\Users\Maxim_Koval\Documents\Visual Studio 2013\ASP.NET MVC5 with Bootstrap 3.1.1 LESS1\ASP.NET MVC5 with Bootstrap 3.1.1 LESS1\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Maxim_Koval\Documents\Visual Studio 2013\ASP.NET MVC5 with Bootstrap 3.1.1 LESS1\ASP.NET MVC5 with Bootstrap 3.1.1 LESS1\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Maxim_Koval\Documents\Visual Studio 2013\ASP.NET MVC5 with Bootstrap 3.1.1 LESS1\ASP.NET MVC5 with Bootstrap 3.1.1 LESS1\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Maxim_Koval\Documents\Visual Studio 2013\ASP.NET MVC5 with Bootstrap 3.1.1 LESS1\ASP.NET MVC5 with Bootstrap 3.1.1 LESS1\bin\ru-ru\BundleTransformer.Core.resources.dll
+C:\Users\Maxim_Koval\Documents\Visual Studio 2013\ASP.NET MVC5 with Bootstrap 3.1.1 LESS1\ASP.NET MVC5 with Bootstrap 3.1.1 LESS1\bin\ru-ru\BundleTransformer.Less.resources.dll
+C:\Users\Maxim_Koval\Documents\Visual Studio 2013\ASP.NET MVC5 with Bootstrap 3.1.1 LESS1\ASP.NET MVC5 with Bootstrap 3.1.1 LESS1\bin\ru-ru\JavaScriptEngineSwitcher.Core.resources.dll
+C:\Users\Maxim_Koval\Documents\Visual Studio 2013\ASP.NET MVC5 with Bootstrap 3.1.1 LESS1\ASP.NET MVC5 with Bootstrap 3.1.1 LESS1\bin\ru-ru\MsieJavaScriptEngine.resources.dll
+C:\Users\Maxim_Koval\Documents\Visual Studio 2013\ASP.NET MVC5 with Bootstrap 3.1.1 LESS1\ASP.NET MVC5 with Bootstrap 3.1.1 LESS1\bin\Notebook.dll.config
+C:\Users\Maxim_Koval\Documents\Visual Studio 2013\ASP.NET MVC5 with Bootstrap 3.1.1 LESS1\ASP.NET MVC5 with Bootstrap 3.1.1 LESS1\bin\Notebook.dll
+C:\Users\Maxim_Koval\Documents\Visual Studio 2013\ASP.NET MVC5 with Bootstrap 3.1.1 LESS1\ASP.NET MVC5 with Bootstrap 3.1.1 LESS1\bin\Notebook.pdb
+C:\Users\Maxim_Koval\Documents\Visual Studio 2013\ASP.NET MVC5 with Bootstrap 3.1.1 LESS1\ASP.NET MVC5 with Bootstrap 3.1.1 LESS1\obj\Debug\Notebook.dll
+C:\Users\Maxim_Koval\Documents\Visual Studio 2013\ASP.NET MVC5 with Bootstrap 3.1.1 LESS1\ASP.NET MVC5 with Bootstrap 3.1.1 LESS1\obj\Debug\Notebook.pdb
+C:\Users\Maxim_Koval\Documents\Visual Studio 2013\ASP.NET MVC5 with Bootstrap 3.1.1 LESS1\ASP.NET MVC5 with Bootstrap 3.1.1 LESS1\obj\Debug\Notebook.csprojResolveAssemblyReference.cache
+C:\Users\Maxim_Koval\Documents\Visual Studio 2013\Notebook\Notebook\bin\Notebook.dll.config
+C:\Users\Maxim_Koval\Documents\Visual Studio 2013\Notebook\Notebook\bin\Notebook.dll
+C:\Users\Maxim_Koval\Documents\Visual Studio 2013\Notebook\Notebook\bin\Notebook.pdb
+C:\Users\Maxim_Koval\Documents\Visual Studio 2013\Notebook\Notebook\bin\Antlr3.Runtime.dll
+C:\Users\Maxim_Koval\Documents\Visual Studio 2013\Notebook\Notebook\bin\BundleTransformer.Core.dll
+C:\Users\Maxim_Koval\Documents\Visual Studio 2013\Notebook\Notebook\bin\BundleTransformer.Less.dll
+C:\Users\Maxim_Koval\Documents\Visual Studio 2013\Notebook\Notebook\bin\EntityFramework.dll
+C:\Users\Maxim_Koval\Documents\Visual Studio 2013\Notebook\Notebook\bin\EntityFramework.SqlServer.dll
+C:\Users\Maxim_Koval\Documents\Visual Studio 2013\Notebook\Notebook\bin\JavaScriptEngineSwitcher.Core.dll
+C:\Users\Maxim_Koval\Documents\Visual Studio 2013\Notebook\Notebook\bin\JavaScriptEngineSwitcher.Msie.dll
+C:\Users\Maxim_Koval\Documents\Visual Studio 2013\Notebook\Notebook\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Maxim_Koval\Documents\Visual Studio 2013\Notebook\Notebook\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Maxim_Koval\Documents\Visual Studio 2013\Notebook\Notebook\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Maxim_Koval\Documents\Visual Studio 2013\Notebook\Notebook\bin\Microsoft.Owin.dll
+C:\Users\Maxim_Koval\Documents\Visual Studio 2013\Notebook\Notebook\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Maxim_Koval\Documents\Visual Studio 2013\Notebook\Notebook\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Maxim_Koval\Documents\Visual Studio 2013\Notebook\Notebook\bin\Microsoft.Owin.Security.dll
+C:\Users\Maxim_Koval\Documents\Visual Studio 2013\Notebook\Notebook\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Maxim_Koval\Documents\Visual Studio 2013\Notebook\Notebook\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Maxim_Koval\Documents\Visual Studio 2013\Notebook\Notebook\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Maxim_Koval\Documents\Visual Studio 2013\Notebook\Notebook\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Maxim_Koval\Documents\Visual Studio 2013\Notebook\Notebook\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Maxim_Koval\Documents\Visual Studio 2013\Notebook\Notebook\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Maxim_Koval\Documents\Visual Studio 2013\Notebook\Notebook\bin\MsieJavaScriptEngine.dll
+C:\Users\Maxim_Koval\Documents\Visual Studio 2013\Notebook\Notebook\bin\Owin.dll
+C:\Users\Maxim_Koval\Documents\Visual Studio 2013\Notebook\Notebook\bin\System.Net.Http.Formatting.dll
+C:\Users\Maxim_Koval\Documents\Visual Studio 2013\Notebook\Notebook\bin\System.Web.Helpers.dll
+C:\Users\Maxim_Koval\Documents\Visual Studio 2013\Notebook\Notebook\bin\System.Web.Http.dll
+C:\Users\Maxim_Koval\Documents\Visual Studio 2013\Notebook\Notebook\bin\System.Web.Http.WebHost.dll
+C:\Users\Maxim_Koval\Documents\Visual Studio 2013\Notebook\Notebook\bin\System.Web.Mvc.dll
+C:\Users\Maxim_Koval\Documents\Visual Studio 2013\Notebook\Notebook\bin\System.Web.Optimization.dll
+C:\Users\Maxim_Koval\Documents\Visual Studio 2013\Notebook\Notebook\bin\System.Web.Razor.dll
+C:\Users\Maxim_Koval\Documents\Visual Studio 2013\Notebook\Notebook\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Maxim_Koval\Documents\Visual Studio 2013\Notebook\Notebook\bin\System.Web.WebPages.dll
+C:\Users\Maxim_Koval\Documents\Visual Studio 2013\Notebook\Notebook\bin\System.Web.WebPages.Razor.dll
+C:\Users\Maxim_Koval\Documents\Visual Studio 2013\Notebook\Notebook\bin\WebGrease.dll
+C:\Users\Maxim_Koval\Documents\Visual Studio 2013\Notebook\Notebook\bin\Antlr3.Runtime.pdb
+C:\Users\Maxim_Koval\Documents\Visual Studio 2013\Notebook\Notebook\bin\EntityFramework.xml
+C:\Users\Maxim_Koval\Documents\Visual Studio 2013\Notebook\Notebook\bin\EntityFramework.SqlServer.xml
+C:\Users\Maxim_Koval\Documents\Visual Studio 2013\Notebook\Notebook\bin\Microsoft.Owin.xml
+C:\Users\Maxim_Koval\Documents\Visual Studio 2013\Notebook\Notebook\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Maxim_Koval\Documents\Visual Studio 2013\Notebook\Notebook\bin\Microsoft.Owin.Security.xml
+C:\Users\Maxim_Koval\Documents\Visual Studio 2013\Notebook\Notebook\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Maxim_Koval\Documents\Visual Studio 2013\Notebook\Notebook\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Maxim_Koval\Documents\Visual Studio 2013\Notebook\Notebook\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Maxim_Koval\Documents\Visual Studio 2013\Notebook\Notebook\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Maxim_Koval\Documents\Visual Studio 2013\Notebook\Notebook\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Maxim_Koval\Documents\Visual Studio 2013\Notebook\Notebook\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Maxim_Koval\Documents\Visual Studio 2013\Notebook\Notebook\bin\System.Net.Http.Formatting.xml
+C:\Users\Maxim_Koval\Documents\Visual Studio 2013\Notebook\Notebook\bin\System.Web.Helpers.xml
+C:\Users\Maxim_Koval\Documents\Visual Studio 2013\Notebook\Notebook\bin\System.Web.Http.xml
+C:\Users\Maxim_Koval\Documents\Visual Studio 2013\Notebook\Notebook\bin\System.Web.Http.WebHost.xml
+C:\Users\Maxim_Koval\Documents\Visual Studio 2013\Notebook\Notebook\bin\System.Web.Mvc.xml
+C:\Users\Maxim_Koval\Documents\Visual Studio 2013\Notebook\Notebook\bin\System.Web.Optimization.xml
+C:\Users\Maxim_Koval\Documents\Visual Studio 2013\Notebook\Notebook\bin\System.Web.Razor.xml
+C:\Users\Maxim_Koval\Documents\Visual Studio 2013\Notebook\Notebook\bin\System.Web.WebPages.xml
+C:\Users\Maxim_Koval\Documents\Visual Studio 2013\Notebook\Notebook\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Maxim_Koval\Documents\Visual Studio 2013\Notebook\Notebook\bin\System.Web.WebPages.Razor.xml
+C:\Users\Maxim_Koval\Documents\Visual Studio 2013\Notebook\Notebook\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Maxim_Koval\Documents\Visual Studio 2013\Notebook\Notebook\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Maxim_Koval\Documents\Visual Studio 2013\Notebook\Notebook\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Maxim_Koval\Documents\Visual Studio 2013\Notebook\Notebook\bin\ru-ru\BundleTransformer.Core.resources.dll
+C:\Users\Maxim_Koval\Documents\Visual Studio 2013\Notebook\Notebook\bin\ru-ru\BundleTransformer.Less.resources.dll
+C:\Users\Maxim_Koval\Documents\Visual Studio 2013\Notebook\Notebook\bin\ru-ru\JavaScriptEngineSwitcher.Core.resources.dll
+C:\Users\Maxim_Koval\Documents\Visual Studio 2013\Notebook\Notebook\bin\ru-ru\MsieJavaScriptEngine.resources.dll
+C:\Users\Maxim_Koval\Documents\Visual Studio 2013\Notebook\Notebook\obj\Debug\Notebook.csprojResolveAssemblyReference.cache
+C:\Users\Maxim_Koval\Documents\Visual Studio 2013\Notebook\Notebook\obj\Debug\Notebook.dll
+C:\Users\Maxim_Koval\Documents\Visual Studio 2013\Notebook\Notebook\obj\Debug\Notebook.pdb
+C:\Users\Maxim_Koval\Documents\Visual Studio 2013\Notebook\Notebook\bin\log4net.dll
+C:\Users\Maxim_Koval\Documents\Visual Studio 2013\Notebook\Notebook\bin\log4net.xml
+C:\Users\Maxim_Koval\Documents\Visual Studio 2013\Notebook\Notebook\obj\Debug\Notebook.csproj.GenerateResource.Cache
+C:\Users\Maxim_Koval\Documents\Visual Studio 2013\Notebook\Notebook\bin\AutoMapper.Net4.dll
+C:\Users\Maxim_Koval\Documents\Visual Studio 2013\Notebook\Notebook\bin\AutoMapper.dll
+C:\Users\Maxim_Koval\Documents\Visual Studio 2013\Notebook\Notebook\bin\Notebook.BLL.dll
+C:\Users\Maxim_Koval\Documents\Visual Studio 2013\Notebook\Notebook\bin\Notebook.Common.dll
+C:\Users\Maxim_Koval\Documents\Visual Studio 2013\Notebook\Notebook\bin\DAL.dll
+C:\Users\Maxim_Koval\Documents\Visual Studio 2013\Notebook\Notebook\bin\DAL.MSQL.dll
+C:\Users\Maxim_Koval\Documents\Visual Studio 2013\Notebook\Notebook\bin\Notebook.BLL.pdb
+C:\Users\Maxim_Koval\Documents\Visual Studio 2013\Notebook\Notebook\bin\Notebook.Common.pdb
+C:\Users\Maxim_Koval\Documents\Visual Studio 2013\Notebook\Notebook\bin\AutoMapper.xml
+C:\Users\Maxim_Koval\Documents\Visual Studio 2013\Notebook\Notebook\bin\DAL.pdb
+C:\Users\Maxim_Koval\Documents\Visual Studio 2013\Notebook\Notebook\bin\DAL.MSQL.pdb
+C:\Users\Maxim_Koval\Documents\Visual Studio 2013\Notebook\Notebook\bin\T4MVCExtensions.dll
+C:\Users\Maxim_Koval\Documents\Visual Studio 2013\Notebook\Notebook\bin\ru\Notebook.resources.dll
+C:\Users\Maxim_Koval\Documents\Visual Studio 2013\Notebook\Notebook\obj\Debug\Notebook.ErrorMsg.resources
+C:\Users\Maxim_Koval\Documents\Visual Studio 2013\Notebook\Notebook\obj\Debug\Notebook.ErrorMsg.ru.resources
+C:\Users\Maxim_Koval\Documents\Visual Studio 2013\Notebook\Notebook\obj\Debug\ru\Notebook.resources.dll
+C:\Users\Maxim_Koval\Documents\Visual Studio 2013\Notebook\Notebook\obj\Debug\Notebook.Resources.ru.resources
+C:\Users\Maxim_Koval\Documents\Visual Studio 2013\Notebook\Notebook\obj\Debug\Notebook.Resources.resources

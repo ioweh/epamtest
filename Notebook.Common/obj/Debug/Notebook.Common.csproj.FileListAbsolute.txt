@@ -1,0 +1,8 @@
+C:\Users\Maxim_Koval\Documents\Visual Studio 2013\Notebook\Notebook.Common\bin\Debug\Notebook.Common.dll
+C:\Users\Maxim_Koval\Documents\Visual Studio 2013\Notebook\Notebook.Common\bin\Debug\Notebook.Common.pdb
+C:\Users\Maxim_Koval\Documents\Visual Studio 2013\Notebook\Notebook.Common\obj\Debug\Notebook.Common.dll
+C:\Users\Maxim_Koval\Documents\Visual Studio 2013\Notebook\Notebook.Common\obj\Debug\Notebook.Common.pdb
+C:\Users\Maxim_Koval\Documents\Visual Studio 2013\Notebook\Notebook.Common\bin\Debug\AutoMapper.Net4.dll
+C:\Users\Maxim_Koval\Documents\Visual Studio 2013\Notebook\Notebook.Common\bin\Debug\AutoMapper.dll
+C:\Users\Maxim_Koval\Documents\Visual Studio 2013\Notebook\Notebook.Common\bin\Debug\AutoMapper.xml
+C:\Users\Maxim_Koval\Documents\Visual Studio 2013\Notebook\Notebook.Common\obj\Debug\Notebook.Common.csprojResolveAssemblyReference.cache

@@ -1,0 +1,29 @@
+﻿@model CreateNoteVM
+
+@{
+    ViewBag.Title = Resources.titleCreate;
+}
+
+<h3>@ViewBag.Title</h3>
+
+@using (Html.BeginForm("Create", "Note", FormMethod.Post, new { @class = "form-horizontal", role = "form" }))
+{
+    @Html.AntiForgeryToken()
+    @Html.ValidationSummary()
+
+    <div class="form-group">
+        @Html.LabelFor(_ => Model.Content, new { @class = "col-md-2 control-label" })
+        <div class="col-md-10">
+            @Html.TextAreaFor(_ => Model.Content, new { @class = "form-control" })
+        </div>
+
+        
+    </div>
+
+    <div class="form-group">
+        <div class="col-md-offset-2 col-md-10">
+            <input type="submit" class="btn btn-default" value=@Resources.btnCreateSubmit />
+        </div>
+    </div>
+
+}

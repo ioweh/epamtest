@@ -1,0 +1,14 @@
+C:\Users\Maxim_Koval\Documents\Visual Studio 2013\Notebook\DAL\DAL\DAL\bin\Debug\DAL.dll
+C:\Users\Maxim_Koval\Documents\Visual Studio 2013\Notebook\DAL\DAL\DAL\bin\Debug\DAL.pdb
+C:\Users\Maxim_Koval\Documents\Visual Studio 2013\Notebook\DAL\DAL\DAL\obj\Debug\DAL.dll
+C:\Users\Maxim_Koval\Documents\Visual Studio 2013\Notebook\DAL\DAL\DAL\obj\Debug\DAL.pdb
+C:\Users\Maxim_Koval\Documents\Visual Studio 2013\Notebook\DAL\bin\Debug\DAL.dll
+C:\Users\Maxim_Koval\Documents\Visual Studio 2013\Notebook\DAL\bin\Debug\DAL.pdb
+C:\Users\Maxim_Koval\Documents\Visual Studio 2013\Notebook\DAL\obj\Debug\DAL.dll
+C:\Users\Maxim_Koval\Documents\Visual Studio 2013\Notebook\DAL\obj\Debug\DAL.pdb
+C:\Users\Maxim_Koval\Documents\Visual Studio 2013\Notebook\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+C:\Users\Maxim_Koval\Documents\Visual Studio 2013\Notebook\DAL\bin\Debug\Notebook.Common.dll
+C:\Users\Maxim_Koval\Documents\Visual Studio 2013\Notebook\DAL\bin\Debug\Notebook.Common.pdb
+C:\Users\Maxim_Koval\Documents\Visual Studio 2013\Notebook\DAL\bin\Debug\AutoMapper.Net4.dll
+C:\Users\Maxim_Koval\Documents\Visual Studio 2013\Notebook\DAL\bin\Debug\AutoMapper.dll
+C:\Users\Maxim_Koval\Documents\Visual Studio 2013\Notebook\DAL\bin\Debug\AutoMapper.xml

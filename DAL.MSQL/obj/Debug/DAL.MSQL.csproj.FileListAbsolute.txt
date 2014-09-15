@@ -1,0 +1,12 @@
+C:\Users\Maxim_Koval\Documents\Visual Studio 2013\Notebook\DAL.MSQL\bin\Debug\DAL.MSQL.dll
+C:\Users\Maxim_Koval\Documents\Visual Studio 2013\Notebook\DAL.MSQL\bin\Debug\DAL.MSQL.pdb
+C:\Users\Maxim_Koval\Documents\Visual Studio 2013\Notebook\DAL.MSQL\obj\Debug\DAL.MSQL.dll
+C:\Users\Maxim_Koval\Documents\Visual Studio 2013\Notebook\DAL.MSQL\obj\Debug\DAL.MSQL.pdb
+C:\Users\Maxim_Koval\Documents\Visual Studio 2013\Notebook\DAL.MSQL\obj\Debug\DAL.MSQL.csprojResolveAssemblyReference.cache
+C:\Users\Maxim_Koval\Documents\Visual Studio 2013\Notebook\DAL.MSQL\bin\Debug\DAL.dll
+C:\Users\Maxim_Koval\Documents\Visual Studio 2013\Notebook\DAL.MSQL\bin\Debug\Notebook.Common.dll
+C:\Users\Maxim_Koval\Documents\Visual Studio 2013\Notebook\DAL.MSQL\bin\Debug\DAL.pdb
+C:\Users\Maxim_Koval\Documents\Visual Studio 2013\Notebook\DAL.MSQL\bin\Debug\Notebook.Common.pdb
+C:\Users\Maxim_Koval\Documents\Visual Studio 2013\Notebook\DAL.MSQL\bin\Debug\AutoMapper.Net4.dll
+C:\Users\Maxim_Koval\Documents\Visual Studio 2013\Notebook\DAL.MSQL\bin\Debug\AutoMapper.dll
+C:\Users\Maxim_Koval\Documents\Visual Studio 2013\Notebook\DAL.MSQL\bin\Debug\AutoMapper.xml

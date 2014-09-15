@@ -1,0 +1,43 @@
+﻿@model DisplayNoteVM
+
+@{
+    int likesCount = NoteDM.LikesCount(Model.Id);
+}
+
+<div class="panel panel-default note-panel" id="@Model.Id">
+    <div class="panel-heading note-heading">
+        <p>
+            <a href="#collapse-@Model.Id" data-toggle="collapse" class="btn btn-default btn-xs glyphicon glyphicon-collapse-down collapse-button" role="button"></a>
+            @Resources.lblPostedBy <strong>@AccountDM.GetUserName(Model.Author)</strong>
+        </p>
+        <p class="glyphicon glyphicon-time">@Resources.lblPostedAt @Model.CreationDate.ToString()</p>
+    </div>
+    <div class="panel-collapse collapse in" id="collapse-@Model.Id">
+        <div class="panel-body" id="content-@Model.Id">
+            @Html.Partial("~/Views/Note/ShowNote.cshtml", Model.Content)
+        </div>
+        <div class="panel-footer note-footer">
+            <p>
+                @if (User.Identity.IsAuthenticated)
+                {
+                    bool isLiked = NoteDM.IsLiked(AccountDM.GetUserId(User.Identity.Name), Model.Id);
+                    bool showCount = likesCount > 0;
+                    <div class="btn-group">
+                        <button class="btn @(isLiked ? "btn-success" : "btn-default") btn-xs note-like glyphicon glyphicon-heart" data-id="@Model.Id"/>
+                        @if (showCount)
+                        {
+                            <button class="btn btn-xs btn-success likes-count" disabled>
+                                @likesCount
+                            </button>
+                        }
+                    </div>
+                    if (User.Identity.Name == AccountDM.GetUserName(Model.Author) || AccountDM.IsUserInRole("Admin"))
+                    {
+                        <button class="glyphicon glyphicon-pencil btn btn-primary btn-xs note-edit" data-id="@Model.Id"></button>
+                        <button class="glyphicon glyphicon-remove btn btn-danger btn-xs note-delete" data-id="@Model.Id"></button>
+                    }
+                }
+            </p>
+        </div>
+    </div>
+</div>

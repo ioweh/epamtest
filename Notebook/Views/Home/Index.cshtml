@@ -1,0 +1,42 @@
+﻿@model IEnumerable<DisplayNoteVM>
+
+@{
+    ViewBag.Title = "Ponypad";
+}
+
+<div class="row">
+    <div class="col-md-12 index-body">
+        <div class="panel-group main-index">
+            @if (Model.Count() == 0)
+            {
+                <h3>@Resources.mgsNothingFound</h3>
+            }
+
+            @foreach (var note in Model)
+            {
+                Html.RenderPartial("~/Views/Note/Single.cshtml", note);
+            }
+        </div>
+    </div>
+</div>
+
+@section scripts {
+    @if (User.Identity.IsAuthenticated)
+    {
+        <script>
+            var likeUrl = '@Url.Action("ToggleLike", "Note")',
+                saveUrl = '@Url.Action("Save", "Note")',
+                editUrl = '@Url.Action("Edit", "Note")',
+                deleteUrl = '@Url.Action("Delete", "Note")',
+                currentUserId = '@AccountDM.CurrentUserId()';
+        </script>
+        <script src="~/Scripts/Home/index.js"></script>
+    }
+}
+
+
+<style>
+    body {
+        background-image: url("http://img2.wikia.nocookie.net/__cb20120708040811/mlp/images/b/bb/Canterlot_Castle_Pinkie_Pie_6.png");
+    }
+</style>

@@ -1,0 +1,5 @@
+﻿@model string
+
+<textarea class="form-control" rows="@(Model.Split('\n').Length + 1)" cols="120">
+    @Model
+</textarea>

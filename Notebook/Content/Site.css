@@ -1,0 +1,62 @@
+﻿.collapse-button {
+  color: #e6dcde;
+  align-self: center;
+}
+.main-index {
+  padding: 10px;
+  background-color: #e6dcde;
+}
+.note-panel {
+  padding: 10px;
+}
+.likes-count {
+  bottom: -1px;
+  height: 20px;
+}
+.note-like {
+  height: 20px;
+}
+.hello-user {
+  padding-top: 15px;
+  color: #94cdea;
+}
+.note-content {
+  border-style: none;
+  resize: none;
+  overflow-wrap: break-word;
+  overflow: hidden;
+}
+body {
+  padding-top: 50px;
+  padding-bottom: 20px;
+}
+/* Set padding to keep content from hitting the edges */
+.body-content {
+  padding-left: 15px;
+  padding-right: 15px;
+}
+/* Set width on the form input elements since they're 100% wide by default */
+input,
+select {
+  max-width: 300px;
+}
+/* styles for validation helpers */
+.field-validation-error {
+  color: #b94a48;
+}
+.field-validation-valid {
+  display: none;
+}
+input.input-validation-error {
+  border: 1px solid #b94a48;
+}
+input[type="checkbox"].input-validation-error {
+  border: 0 none;
+}
+.validation-summary-errors {
+  color: #b94a48;
+}
+.validation-summary-valid {
+  display: none;
+}
+/*# sourceMappingURL=Site.css.map */
