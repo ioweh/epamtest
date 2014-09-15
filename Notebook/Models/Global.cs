@@ -15,7 +15,7 @@ namespace Notebook.Models
 
         static Global()
         {
-            business = new Business(ConfigurationManager.AppSettings["connectionString"]);
+            business = new Business(ConfigurationManager.ConnectionStrings["DefaultConnection"].ConnectionString);
             filter = new NoteFilter();
         }
     }
